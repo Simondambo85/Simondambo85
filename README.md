@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Simondambo85
 - 👀 I’m interested in web development...
 - 🌱 I’m currently learning .python javascript ,html and css..
-- 💞️ I’m looking to collaborate on .web apps prijects..
+- 💞️ I’m looking to collaborate on .web apps projects..
 - 📫 How to reach me .+234-9064886662..
 
 <!---
